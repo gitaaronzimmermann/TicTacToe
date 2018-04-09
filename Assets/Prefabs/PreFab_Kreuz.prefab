@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 222770714698991192}
   - component: {fileID: 114533726732194888}
   m_Layer: 5
-  m_Name: Kreuz
+  m_Name: PreFab_Kreuz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

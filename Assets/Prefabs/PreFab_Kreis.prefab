@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 222651554315684826}
   - component: {fileID: 114709934598195668}
   m_Layer: 5
-  m_Name: Kreis
+  m_Name: PreFab_Kreis
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
